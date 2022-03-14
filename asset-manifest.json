@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WARdle/static/css/main.4d58bb90.css",
-    "main.js": "/WARdle/static/js/main.fd8d2f98.js",
+    "main.js": "/WARdle/static/js/main.8a69e7cb.js",
     "static/js/787.85ed7ac4.chunk.js": "/WARdle/static/js/787.85ed7ac4.chunk.js",
     "index.html": "/WARdle/index.html",
     "main.4d58bb90.css.map": "/WARdle/static/css/main.4d58bb90.css.map",
-    "main.fd8d2f98.js.map": "/WARdle/static/js/main.fd8d2f98.js.map",
+    "main.8a69e7cb.js.map": "/WARdle/static/js/main.8a69e7cb.js.map",
     "787.85ed7ac4.chunk.js.map": "/WARdle/static/js/787.85ed7ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d58bb90.css",
-    "static/js/main.fd8d2f98.js"
+    "static/js/main.8a69e7cb.js"
   ]
 }
